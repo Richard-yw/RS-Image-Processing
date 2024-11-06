@@ -1,6 +1,6 @@
 #pragma once
 #pragma once
-#include <gdal_priv.h>
+#include <gdal_priv.h>//ĞèÒªÅäÖÃgdal
 #include <iostream>
 #include <algorithm>
 #include <cstring> 
